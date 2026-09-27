@@ -1,0 +1,10 @@
+Instância          : instancias/media.txt
+Vértices / Arestas : 100 / 484
+Variáveis / Restr. : 100 / 484
+Status             : Optimal
+Relaxação linear   : 50.00
+Ótimo inteiro α(G) : 32
+Gap relaxação      : 56.2%
+Tempo (s)          : 2.28
+Solução válida?    : True
+Conjunto           : [5, 6, 9, 10, 12, 13, 16, 17, 23, 24, 26, 27, 30, 33, 44, 48, 49, 55, 56, 62, 66, 71, 76, 80, 81, 87, 88, 90, 95, 97, 98, 100]

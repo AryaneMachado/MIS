@@ -1,0 +1,10 @@
+Instância          : instancias/facil.txt
+Vértices / Arestas : 20 / 38
+Variáveis / Restr. : 20 / 38
+Status             : Optimal
+Relaxação linear   : 10.00
+Ótimo inteiro α(G) : 9
+Gap relaxação      : 11.1%
+Tempo (s)          : 0.01
+Solução válida?    : True
+Conjunto           : [1, 3, 4, 5, 12, 14, 17, 18, 20]
